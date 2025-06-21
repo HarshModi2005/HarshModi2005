@@ -29,11 +29,12 @@ I'm fascinated by the intersection of AI and real-world applications, constantly
 
 # 📊 GitHub Stats:
 
-<p align="center">
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=HarshModi2005&count_private=true&include_all_commits=true&theme=radical&show_icons=true&custom_title=GitHub%20Stats%20(2025)&from=2025-01-01" />
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshModi2005&layout=compact&theme=radical&langs_count=10&hide=html,css&custom_title=Most%20Used%20Languages%20(2025)" />
+
+  <p align="center">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=HarshModi2005&count_private=true&include_all_commits=true&theme=radical&show_icons=true&custom_title=GitHub%20Stats%20(2025)&from=2025-01-01&to=2025-12-31" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshModi2005&layout=compact&theme=radical&langs_count=10&hide=html,css&custom_title=Most%20Used%20Languages%20(2025)&from=2025-01-01&to=2025-12-31" />
     <br />
-    <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=HarshModi2005&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" /><br/>
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshModi2005&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire_from=2025-01-01&fire_to=2025-12-31" /><br/>
 </p>
 
 ## 🏆 GitHub Trophies
