@@ -3,38 +3,6 @@
 ## About Me
 I'm a passionate developer with a focus on web development, machine learning, and building practical solutions. I enjoy creating projects that solve real-world problems and exploring new technologies.
 
-## 🚀 Featured Projects
-
-### 🏨 [OYO Clone Project](https://github.com/HarshModi2005/OYO-Clone-Project)
-A full-stack hotel booking platform inspired by OYO, built with modern web technologies.
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Hotel search, booking system, user interface
-
-### 📅 [Appointment Hub](https://github.com/HarshModi2005/Appointment-Hub)
-A comprehensive appointment management system for businesses and professionals.
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Appointment scheduling, user management, dashboard
-
-### 🏢 [Hotel Management System](https://github.com/HarshModi2005/Hotel-Management)
-A Python-based hotel management solution for streamlining hotel operations.
-- **Tech Stack:** Python
-- **Features:** Room management, guest services, reporting
-
-### 🤖 [HackathonML](https://github.com/HarshModi2005/HackathonML)
-Machine learning project developed during a hackathon, showcasing data science skills.
-- **Tech Stack:** Python, Jupyter Notebook
-- **Focus:** Data analysis, predictive modeling
-
-### 🏙️ [NewCity](https://github.com/HarshModi2005/NewCity)
-A Python project focused on urban development and city planning solutions.
-- **Tech Stack:** Python
-- **Purpose:** Urban planning, data visualization
-
-### 📚 [BigEnglishWords](https://github.com/HarshModi2005/BigEnglishWords)
-A Python application for working with large English vocabulary datasets.
-- **Tech Stack:** Python
-- **Features:** Word processing, language analysis
-
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
@@ -51,15 +19,20 @@ A Python application for working with large English vocabulary datasets.
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshModi2005&show_icons=true&theme=radical)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshModi2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshModi2005&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshModi2005&theme=radical)
 
-## 🎯 Current Focus
-- Building scalable web applications
-- Exploring machine learning and data science
-- Contributing to open-source projects
-- Learning new technologies and frameworks
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshModi2005&layout=compact&theme=radical&include_all_commits=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshModi2005&theme=radical&hide_border=true)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HarshModi2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 📈 Contribution Stats
+![Harsh's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=HarshModi2005&theme=radical)
+
 
 ## 🤝 Let's Connect!
 I'm always open to collaborating on interesting projects and learning from fellow developers. Feel free to reach out!
