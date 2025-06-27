@@ -5,7 +5,7 @@ I'm Harsh Modi, a pre-final year Computer Science student at IIT Ropar with a de
 I'm fascinated by the intersection of AI and real-world applications, constantly exploring cutting-edge technologies in language models, autonomous agents, and intelligent systems. My journey involves building both AI-powered solutions and full-stack web applications that bridge the gap between complex algorithms and user-friendly interfaces.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/harsh-modi) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/HarshModi2005) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:harshkmodi2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/harsh-modi-a1bb26286/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/HarshModi2005) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:harshkmodi2005@gmail.com)
 
 # 💻 Tech Stack:
 
